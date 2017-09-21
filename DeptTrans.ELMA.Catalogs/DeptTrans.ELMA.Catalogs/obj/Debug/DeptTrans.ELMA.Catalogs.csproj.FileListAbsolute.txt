@@ -1,0 +1,4 @@
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\bin\DeptTrans.ELMA.Catalogs.dll
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\bin\DeptTrans.ELMA.Catalogs.pdb
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\obj\Debug\DeptTrans.ELMA.Catalogs.dll
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\obj\Debug\DeptTrans.ELMA.Catalogs.pdb

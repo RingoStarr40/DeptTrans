@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FormViewItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Form</Name>
+  <Uid>3ff68071-bbdd-41fe-a6dc-f9fa978a512c</Uid>
+  <MetadataUid xsi:nil="true" />
+  <Items>
+    <RootViewItem xsi:type="PanelViewItem">
+      <Name>Panel1</Name>
+      <Uid>17f18aba-8ce4-4818-ab4e-d4b22dbf0d36</Uid>
+      <MetadataUid xsi:nil="true" />
+      <Items>
+        <RootViewItem xsi:type="ColumnViewItem">
+          <Name>Column1</Name>
+          <Uid>29956ff7-719a-42a4-a609-5221215ba8c3</Uid>
+          <MetadataUid xsi:nil="true" />
+          <Items>
+            <RootViewItem xsi:type="PropertyViewItem">
+              <Name>Property1</Name>
+              <Uid>e605fb59-9734-4a46-90d7-bfd338f50c23</Uid>
+              <MetadataUid xsi:nil="true" />
+              <Items />
+              <Property>4ded7db4-13f2-4197-b9fc-fd764423688a</Property>
+              <Attributes>
+                <TablePartParentMetadataUid>00000000-0000-0000-0000-000000000000</TablePartParentMetadataUid>
+                <ViewProviderUid>00000000-0000-0000-0000-000000000000</ViewProviderUid>
+                <DynamicFormsProviderUid>00000000-0000-0000-0000-000000000000</DynamicFormsProviderUid>
+                <EntityFilterProvider>00000000-0000-0000-0000-000000000000</EntityFilterProvider>
+                <EntityModelBinderProvider>00000000-0000-0000-0000-000000000000</EntityModelBinderProvider>
+                <Placeholder />
+                <Tooltip />
+              </Attributes>
+              <TypeSettings />
+            </RootViewItem>
+          </Items>
+        </RootViewItem>
+      </Items>
+      <Caption>Запись справочника</Caption>
+      <Style>Separator</Style>
+    </RootViewItem>
+  </Items>
+  <DisplayName>Создание</DisplayName>
+</FormViewItem>

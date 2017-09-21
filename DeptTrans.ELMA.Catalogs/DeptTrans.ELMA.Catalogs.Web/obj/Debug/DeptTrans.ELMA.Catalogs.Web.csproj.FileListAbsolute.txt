@@ -1,0 +1,8 @@
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\bin\DeptTrans.ELMA.Catalogs.Web.dll
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\bin\DeptTrans.ELMA.Catalogs.Web.pdb
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\bin\Iesi.Collections.dll
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\bin\Iesi.Collections.pdb
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\bin\Iesi.Collections.xml
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\obj\Debug\DeptTrans.ELMA.Catalogs.Web.csprojResolveAssemblyReference.cache
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\obj\Debug\DeptTrans.ELMA.Catalogs.Web.dll
+C:\Users\matyushin\documents\visual studio 2013\Projects\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs\DeptTrans.ELMA.Catalogs.Web\obj\Debug\DeptTrans.ELMA.Catalogs.Web.pdb
